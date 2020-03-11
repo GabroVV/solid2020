@@ -15,7 +15,7 @@ public class Rectangle implements Shape{
     }
 
     @Override
-    public double calculetePerimeter() {
+    public double calculatePerimeter() {
         return 2*(getSideA() + getSideB());
     }
 

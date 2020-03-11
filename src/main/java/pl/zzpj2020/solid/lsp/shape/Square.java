@@ -21,7 +21,7 @@ public class Square implements Shape {
     }
 
     @Override
-    public double calculetePerimeter() {
+    public double calculatePerimeter() {
         return 4 * side;
     }
 }

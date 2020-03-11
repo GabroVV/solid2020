@@ -13,7 +13,7 @@ public class Disk implements Shape{
     }
 
     @Override
-    public double calculetePerimeter() {
+    public double calculatePerimeter() {
         return 2 * Math.PI * radius;
     }
 
